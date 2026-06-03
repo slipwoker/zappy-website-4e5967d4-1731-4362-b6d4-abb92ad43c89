@@ -1,0 +1,112 @@
+# Digital 101 Official — Generative Engine Optimization Map
+
+> The user wants to build a store website inspired by Stan.store — a creator-focused platform that allows selling digital products, courses, and services. The goal is a clean, conversion-optimized storefront similar to what Stan.store offers for creators and entrepreneurs.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Turn your passion into profit with a stunning Shopify ecommerce store built for creators. Sell digital products, courses, and services effortlessly. Start your free trial now!
+
+### How It Works
+https://example.com/how-it-works
+Discover how our seamless ecommerce fulfillment services take the hassle out of selling digital goods. From setup to first sale in minutes—your creator journey simplified.
+
+### About
+https://example.com/about
+We&#39;re on a mission to equip creators with the ultimate Amazon ecommerce platform alternative. Learn why thousands trust us to grow their digital empire.
+
+### Contact
+https://example.com/contact
+Ready to scale your Shopify ecommerce store? Reach out to our support team for personalized guidance on selling more digital products and services today.
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for enrolling in
+
+### Courses
+https://example.com/courses
+Browse all available courses.
+
+### Course Category
+https://example.com/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://example.com/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://example.com/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://example.com/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://example.com/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Digital 101 Official
+The user wants to build a store website inspired by Stan.store — a creator-focused platform that allows selling digital products, courses, and services. The goal is a clean, conversion-optimized storefront similar to what Stan.store offers for creators and entrepreneurs.
+
+## Target Audience
+- Digital Content Creators
+- Online Instructors
+- Independent Artists
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
